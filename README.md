@@ -34,4 +34,23 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pancake2021)](https://github.com/pancake2021/github-readme-stats)
 
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pancake2021&theme=solarized_dark)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pancake2021&theme=solarized_dark)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pancake2021&theme=solarized_dark)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pancake2021&theme=solarized_dark)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pancake2021&theme=solarized_dark)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
