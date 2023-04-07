@@ -48,9 +48,4 @@ Here are some ideas to get you started:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pancake2021&theme=solarized_dark)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 
